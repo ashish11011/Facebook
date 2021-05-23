@@ -1,0 +1,49 @@
+
+body{
+    background-color: #f1f2f6;
+}
+
+.col{
+    margin-top: 200px;
+}
+
+.fb-p{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 30px;
+}
+h1{
+    color: #197af4;
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
+
+form{
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: auto;
+    height: 350px;
+    width: 400px;
+    padding: 10px;
+    
+}
+
+input{
+    margin: 10px;
+    margin-bottom: 5px;
+    height: 2.5rem;
+}
+
+button{
+    height: 3rem;
+}
+
+.green{
+    background-color: #41b829;
+}
+
+.form-p{
+    margin-top: 20px;
+    margin-left: 9rem;
+    display: inline-block;
+}
